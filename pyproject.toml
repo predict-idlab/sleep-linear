@@ -18,6 +18,7 @@ jupyterlab = "^3.3.3"
 jupyter = "^1.0.0"
 yasa = "^0.6.1"
 fastparquet = "^0.8.1"
+termcolor = "^1.1.0"
 
 [tool.poetry.dev-dependencies]
 
