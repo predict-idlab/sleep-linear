@@ -4,11 +4,11 @@
 <h2>Simple and Interpretable Techniques Outperform Deep Learning for Sleep Scoring</h2>
 </div>
 
----
-
 Code from the paper *Do Not Sleep on Linear Models: Simple and Interpretable Techniques Outperform Deep Learning for Sleep Scoring*.
 
 Preprint: https://arxiv.org/abs/2207.07753
+
+---
 
 ## How is the code structured?
 
