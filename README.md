@@ -14,7 +14,7 @@ Preprint: https://arxiv.org/abs/2207.07753
 
 For each dataset you can find a separate notebook in the [`notebooks`](notebooks) folder.  
 
-The notebooks allow fully reproducible results as they contain;  
+The notebooks allow to reproduce the results as they contain;  
 1. data loading (see code in [`src` folder](src))
 2. pre-processing & feature extraction
 3. (seeded) machine learning experiments
