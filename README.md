@@ -1,10 +1,10 @@
 
 <div align="center">
-<h1>Do not 😴 on linear models</h1>
-<h2>Simple and Interpretable Techniques Outperform Deep Learning for Sleep Scoring</h2>
+<h1>Do not 😴 on traditional ML</h1>
+<h2>Simple and Interpretable Techniques Are Competitive to Deep Learning for Sleep Scoring</h2>
 </div>
 
-Code from the paper *Do Not Sleep on Linear Models: Simple and Interpretable Techniques Outperform Deep Learning for Sleep Scoring*.
+Code from the paper *Do Not Sleep on Traditional Machine Learning: Simple and Interpretable Techniques Are Competitive to Deep Learning for Sleep Scoring*.
 
 Preprint: https://arxiv.org/abs/2207.07753
 
@@ -24,6 +24,22 @@ The notebooks allow to reproduce the results as they contain;
 | [SleepEDF-SC +- 30min.ipynb](notebooks/SleepEDF-SC%20%2B-%2030min.ipynb) | `SC-EDF-20` & `SC-EDF-78` |
 | [SleepEDF-ST](notebooks/SleepEDF-ST.ipynb) | `SC-EDF-ST` |
 | [MASS-SS3](notebooks/MASS-SS3.ipynb) | `MASS SS3` | 
+
+---
+
+## Additional experiments
+
+The [`notebooks/other`](notebooks/other) folder contains some additional experiments;
+
+| notebook | experiment description |
+|---|---|
+| [inputs_SleepEDF-SC +- 30min.ipynb](notebooks/other/inputs_SleepEDF-SC%20%2B-%2030min.ipynb) | evaluate impact of signal combination on performance for `SC-EDF-20` & `SC-EDF-78`|
+| [inputs_SleepEDF-ST.ipynb](notebooks/other/inputs_SleepEDF-ST.ipynb) | evaluate impact of signal combination on performance for `SC-EDF-ST` |
+| [inputs_SleepEDF-MASS.ipynb](notebooks/other/inputs_SleepEDF-MASS.ipynb) | evaluate impact of signal combination on performance for `MASS SS3` |
+| [feature_selection.ipynb](notebooks/other/feature_selection.ipynb) | show the (little to no) impact of feature selection on performance |
+| [feature_space_visualization.ipynb](notebooks/other/feature_space_visualization.ipynb) | `PCA` and `t-SNE` visualization of the feature vector for `SleepEDF-SC +/- 30min`|
+
+A table showing the impact of signal combination on performance can be found in [notebooks/other/signal_combination_impact.md](notebooks/other/signal_combination_impact.md). 
 
 ---
 
