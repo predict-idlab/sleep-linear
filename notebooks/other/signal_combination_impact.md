@@ -11,7 +11,7 @@ Summary of the results from the `inputs_`* notebooks.
     <th>Signals</th>
     <th>MF1</th>
     <th>ACC</th>
-    <th>kAPPA</th>
+    <th>KAPPA</th>
   </tr>
 </thead>
 <tbody>
