@@ -6,7 +6,21 @@
 
 Code from the paper *Do Not Sleep on Traditional Machine Learning: Simple and Interpretable Techniques Are Competitive to Deep Learning for Sleep Scoring*.
 
-Preprint: https://arxiv.org/abs/2207.07753
+Preprint: https://arxiv.org/abs/2207.07753  
+Published article: https://doi.org/10.1016/j.bspc.2022.104429
+
+Citation:
+```bibtex
+@article{vanderdonckt2023donotsleep,
+  title={Do not sleep on traditional machine learning: Simple and interpretable techniques are competitive to deep learning for sleep scoring},
+  author={Van Der Donckt, Jeroen and Van Der Donckt, Jonas and Deprost, Emiel and Vandenbussche, Nicolas and Rademaker, Michael and Vandewiele, Gilles and Van Hoecke, Sofie},
+  journal={Biomedical Signal Processing and Control},
+  volume={81},
+  pages={104429},
+  year={2023},
+  publisher={Elsevier}
+}
+```
 
 ---
 
