@@ -27,7 +27,7 @@ Summary of the results from the `inputs_`* notebooks.
     <td>EEG + EMG</td>
     <td>0.787</td>
     <td>0.842</td>
-    <td>0.884</td>
+    <td>0.786</td>
   </tr>
   <tr>
     <td>EEG + EOG</td>
